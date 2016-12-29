@@ -1,0 +1,15 @@
+.DS_Store
+Library
+Temp
+*.csproj
+obj/
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.booproj
+*~
+*#*
+hamster_unity.sublime-workspace
+Build/
+.vscode
